@@ -1,0 +1,4 @@
+mounth,total_num_of_loans,total_num_delin,total_num_writeoff,total_outstanding,writeoff_outstanding,delin_outstanding,delin_rate_by_num,writeoff_rate_by_num,delin_rate_by_amt,writeoff_rate_by_amt
+2014-06,13386,105,9,26158381.03,12422.3,266295.03,0.0078,0.0007,0.01018,0.00047
+2014-07,13180,94,14,25586394.64,40065.16,231466.1,0.0071,0.0011,0.00905,0.00157
+2014-08,13829,150,20,26736650.42,41575.43,388817.97,0.0108,0.0014,0.01454,0.00155
